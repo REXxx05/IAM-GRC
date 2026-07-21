@@ -16,4 +16,9 @@
 - Added .gitignore to prevent future exposure
 - Principle applied: Secure Credential Management
 
-## Fix 4 - Password Policy (coming next)
+## Fix 4 - Password Policy Applied
+- Minimum password length: 14 characters
+- Requires: symbols, numbers, uppercase, lowercase
+- Password expires every 90 days
+- Prevents reuse of last 12 passwords
+- Principle applied: Access Control
